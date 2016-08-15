@@ -39,4 +39,6 @@ rake db:migrate
 ```
   
 ##執行
+```
 rails s  => OK
+```
